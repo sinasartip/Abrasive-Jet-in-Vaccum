@@ -35,17 +35,17 @@ The design was motivated by the need to create channels in glass panels without 
 
 ## What I learnt
 
->- How to simulate particle trajectory recursively to estimate final impact speed in >Matlab and python.
+>- How to simulate particle trajectory recursively to estimate final impact speed in Matlab and python.
 >
 >- Making tables with pandas for easy reporting of data. 
 >
 >- Material fatigue analysis, to determine shaft diameter.  
 >
->- Vibration analysis, to determine allowable eccentricity of parts loaded on the >main rotating shaft in Matlab.
+>- Vibration analysis, to determine allowable eccentricity of parts loaded on the main rotating shaft in Matlab.
 >
->- Solidworks modelling of parts to check for fit and render publication-ready >images. 
+>- Solidworks modelling of parts to check for fit and render publication-ready images. 
 >
->- Project management and planning to meet all deadlines on time, even with the start >of COVID-19 all deadlines were met. 
+>- Project management and planning to meet all deadlines on time, even with the start of COVID-19 all deadlines were met. 
 >
 >- Team workload distribution, to make sure each team member likes what they do and has the resources they need to do it. 
 
