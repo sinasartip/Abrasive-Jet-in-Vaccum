@@ -8,8 +8,7 @@
 ### Table of Contents
 
 - [Abrasive Jet in Vacuum](#abrasive-jet-in-vacuum)
-  - [CAD render](#blockquotea-novel-design-for-machining-glass-particularly-useful-for-creating-square-channels-of-significant-depthblockquote)
-    - [Table of Contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Description](#description)
       - [Technologies](#technologies)
   - [What I learnt](#what-i-learnt)
