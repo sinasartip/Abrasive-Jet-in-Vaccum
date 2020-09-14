@@ -17,7 +17,7 @@
 
 ## Description
 
-The design was motivated by the need to create channels in glass panels without making cracks. The issue with other machining methods is that you either do not have granular control of the tool, or the machining process leaves unwanted shapes at the bottom of the channel. This method allows for cutting the glass without cracking in a clean square cross-section of any desired depth.
+The design was motivated by the need to create channels in glass panels without making cracks. The issue with other machining methods is that you either do not have granular control of the tool or the machining process leaves unwanted shapes at the bottom of the channel. This method allows for cutting the glass without cracking in a clean square cross-section of any desired depth.
 
 
 #### Technologies
