@@ -8,7 +8,7 @@
 ### Table of Contents
 
 - [Abrasive Jet in Vacuum](#abrasive-jet-in-vacuum)
-  - [> A novel design for machining glass. Particularly useful for creating square channels of significant depth.](#blockquotea-novel-design-for-machining-glass-particularly-useful-for-creating-square-channels-of-significant-depthblockquote)
+  - [ A novel design for machining glass. Particularly useful for creating square channels of significant depth.](#blockquotea-novel-design-for-machining-glass-particularly-useful-for-creating-square-channels-of-significant-depthblockquote)
     - [Table of Contents](#table-of-contents)
   - [Description](#description)
       - [Technologies](#technologies)
